@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/test_fbrealtime_query/BuildConfig.java
+ com.example.test_fbrealtime_query.BuildConfig
